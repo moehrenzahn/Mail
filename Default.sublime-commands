@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Mail: Compose mail from file",
+        "command": "mail"
+    }
+]
